@@ -13,3 +13,4 @@ consulta_corre = consulta[::-1]
 nota, nombre = consulta_corre.split(",")
 
 print(f"{nombre} ha sacado un Nota de {nota}")
+
