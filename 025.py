@@ -2,7 +2,7 @@ paises = ["España", "Argentina","Perú"]
 sel = 1
 cont = 0
 
-while sel != 5:
+while True:
     print("1. Imprimir alfabéticamente en orden ascendente")
     print("2. Imprimir alfabéticamente en orden descendente")
     print("3. Añadir País")
